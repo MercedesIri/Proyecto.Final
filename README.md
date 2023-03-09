@@ -4,21 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>CV de SUE DAY - MKT</title>
-    <link rel="stylesheet" href="css/estilos.css">
-    <style>
-		body {
-			font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
-			color: rgb(12, 12, 106);
-			background-color: rgb(241, 241, 148);
-        }
-
-        h1, h2 {
-			font-family: fantasy, serif;
-			color: #5d0909;
-		}
-
-        </style>
+	
 </head>
 <body>
 	<header>
@@ -64,3 +50,4 @@
 	</main>
 </body>
 </html
+![d86d35d7-f293-4ebb-92af-c3d731791ea6](https://user-images.githubusercontent.com/127323663/223886168-f6c7706b-afb1-4c2b-afe5-c0f2a25d8995.jpg)
