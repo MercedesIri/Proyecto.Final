@@ -29,7 +29,7 @@
 	<main>
 		<section>
 			<h3>Información Personal</h3>
-			<ul>
+			</ul>
 				<li>Name: Sue Day</li>
 				<li>Email: sueday@hotmail.com</li>
 				<li>Celular: +54.911.1234-5678</li>
@@ -43,22 +43,22 @@
 				<li>Bachiller, Colegio Marianista, Graduada en 2010</li>
 			</ul>
 		</section>
+		<ul>
 		<section>
 			<h3>Experiencia Laboral</h3>
 			<ul>
 				<li>Nestlé Aguas. Actual</li>
-                    <li>Jefe de Producto, desde marzo 2019.</li>
-				
+                    <legend>Jefe de Producto, desde marzo 2019.</li>	
                 <li>Kellogg's. Octubre 2016 a marzo 2019</li>
-                    <li>Asistente de MKT</li>
+                    <legend>Asistente de MKT</li>
 			</ul>
 		</section>
 		<section>
-			<h3>Skills</h3>
+			<h3>Habilidades</h3>
 			<ul>
-				<li>Skill 1</li>
-				<li>Skill 2</li>
-				<li>Skill 3</li>
+				<li>Trabajo en equipo</li>
+				<li>Analisis</li>
+				<li>Manejo de grupos</li>
 			</ul>
 		</section>
 	</main>
